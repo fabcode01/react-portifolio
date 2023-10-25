@@ -15,7 +15,7 @@ function App() {
   
     if (opt == 2) {
         SetCurrentLanguage(1)
-        document.getElementById('container').style.height = '750px'
+        document.getElementById('container').style.height = '780px'
   
     } else if (opt == 1) {
         SetCurrentLanguage(2)

@@ -23,6 +23,6 @@ export const languages =
     sobre:`I grew up with direct contact with technology with an old computer I had at home, since then I've been interested in this area.`,
 
     tecnologias:'technologies:',
-    copiado:'copied To clipboard'
+    copiado:'copied!'
   
   }]}

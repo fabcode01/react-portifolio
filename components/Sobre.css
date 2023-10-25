@@ -144,7 +144,7 @@ li i {
 
 .social ul,
 li {
-    display: inline-block;
+    display: block;
     text-wrap: nowrap;
     margin-left: 5px;
     list-style: none;
